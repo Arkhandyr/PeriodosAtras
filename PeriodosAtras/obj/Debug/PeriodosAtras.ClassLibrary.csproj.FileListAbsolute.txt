@@ -1,0 +1,7 @@
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.exe
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.pdb
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.exe.config
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.exe
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.pdb

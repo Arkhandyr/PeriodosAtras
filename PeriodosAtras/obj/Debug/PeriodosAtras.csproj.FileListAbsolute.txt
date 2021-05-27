@@ -1,0 +1,14 @@
+C:\Users\JX\Documents\GitHub\PeriodosAtras\PeriodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.exe.config
+C:\Users\JX\Documents\GitHub\PeriodosAtras\PeriodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.exe
+C:\Users\JX\Documents\GitHub\PeriodosAtras\PeriodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.pdb
+C:\Users\JX\Documents\GitHub\PeriodosAtras\PeriodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.csprojAssemblyReference.cache
+C:\Users\JX\Documents\GitHub\PeriodosAtras\PeriodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.csproj.CoreCompileInputs.cache
+C:\Users\JX\Documents\GitHub\PeriodosAtras\PeriodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.exe
+C:\Users\JX\Documents\GitHub\PeriodosAtras\PeriodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.pdb
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.exe.config
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.exe
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\bin\Debug\PeriodosAtras.pdb
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.csprojAssemblyReference.cache
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.exe
+C:\Users\victo\Source\Repos\PeríodosAtras\PeriodosAtras\obj\Debug\PeriodosAtras.pdb
